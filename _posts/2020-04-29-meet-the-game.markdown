@@ -4,7 +4,7 @@ title: 遇见游戏开发
 date: 2020-04-29 02:13:38 +0300
 description:  记录一些游戏开发过程中的想法 # Add post description (optional)
 img: post-6.jpg # Add image post (optional)
-tags: [Blog, Design]
+tags: [Blog, Game]
 author: WeitongLiang# Add name author (optional)
 ---
 ## 最初的印象
