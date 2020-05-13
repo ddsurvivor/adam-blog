@@ -3,7 +3,7 @@ layout: post
 title:  游戏创意笔记
 date:   2020-05-07 13:32:20 +0300
 description: 记录游戏开发的创意，主要是玩法设计 # Add post description (optional)
-img: resourcepg_header.png # Add image post (optional)
+img: post-2.jpg # Add image post (optional)
 tags: [Blog, Note, Game]
 author: # Add name author (optional)
 ---
@@ -36,3 +36,6 @@ No 5 晴空号传说
 No 6 音符连击
 玩法：通过不同的音符组合来释放必杀技，例如大和弦、三连音等等。
 操作：通过数字键1~7控制七个音，在一定时间内按照指定的顺序按下，就可以释放对应的技能，越长的音阶技能威力越大
+
+No 7 飞剑模拟器
+玩法：用鼠标操控飞剑飞行轨迹，按住录制键后可以让飞剑重复轨迹，飞行速度会提高伤害，每个飞剑有各自的特性。
