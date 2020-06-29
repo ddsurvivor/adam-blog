@@ -3,7 +3,7 @@ layout: post
 title:  【游戏设计文档】寒冰之心
 date:   2020-06-28 17:32:20 +0300
 description: 魔法世界RPG游戏《寒冰之心》的设计文档 # Add post description (optional)
-img: post-2.jpg # Add image post (optional)
+img: 2.jpg # Add image post (optional)
 tags: [Blog, Note, Game]
 author: # Add name author (optional)
 ---
