@@ -5,7 +5,7 @@ date:   2020-05-07 13:32:20 +0300
 description: 记录游戏开发的创意，主要是玩法设计 # Add post description (optional)
 img: post-2.jpg # Add image post (optional)
 tags: [Blog, Note, Game]
-author: # Add name author (optional)
+author: WeitongLiang# Add name author (optional)
 ---
 No.1 彤熵效应
 太空战棋策略游戏
