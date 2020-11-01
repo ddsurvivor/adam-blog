@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 冰霜王冠
+title: 冰霜皇冠
 date: 2020-05-13 01:31:20 +0300
 description: 艾祖儿魔法学院发生的传奇故事 # Add post description (optional)
 img: magic1.jpg # Add image post (optional)
